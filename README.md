@@ -2,6 +2,8 @@
 
 Source Code for [Shape Recovery of Endoscopic Videos by Shape from Shading Using Mesh Regularization](https://albuspeter.github.io/projects/Shape-Recovery/icig_2017_sfs_mesh_deformation.pdf) <br> <br>
 
+![showcase](https://github.com/AlbusPeter/AlbusPeter.github.io/blob/master/projects/Shape-Recovery/SFS.png)
+
 OpenCV Version:2.4.11<br><br>
 
 This is my very first project that I worked on during my junior Year. So here is my applogy if the code is not neat for you. The project aims to recover 3D surfaces from endoscopic videos using the simple Shape from Shading method. The raw results from Shape from Shading are noisy and unacceptable. We propose to utilize mesh regularizations to boost the Shape from Shading results. We also use `OpenGL` to visualize the final 3D reconstruction results, where we can change view angles and zoom in&out. <br><br>
